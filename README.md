@@ -1,5 +1,4 @@
 # Yellow Bean Study Plan
-***
 ##   :book: 스터디
 
 <img width="635" alt="스크린샷 2022-05-13 오후 11 15 18" src="https://user-images.githubusercontent.com/87407504/168302959-b9ef3ffb-c50f-40a2-9adf-53e9ca9bf459.png">
